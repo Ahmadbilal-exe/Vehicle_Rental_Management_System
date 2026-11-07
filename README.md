@@ -1,7 +1,7 @@
-Vehicle Rental Management System
-A console-based Vehicle Rental Management System developed in C. Features vehicle and customer management, rental tracking, billing, admin authentication, and file handling using a menu-driven interface.
 
 Vehicle Rental Management System
+
+
 A console-based Vehicle Rental Management System developed in C that enables administrators and customers to manage vehicle rentals efficiently.
 
 Password for Admin= "admin123"
@@ -54,4 +54,4 @@ Institution
 FAST NUCES
 
 Project Type
-1st Semester Project – BS Computer Science# Vehicle_Rental_Management_System
+1st Semester Project – BS Computer Science
