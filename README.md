@@ -1,1 +1,56 @@
-# Vehicle_Rental_Management_System
+A console-based Vehicle Rental Management System developed in C. Features vehicle and customer management, rental tracking, billing, admin authentication, and file handling using a menu-driven interface.
+
+Vehicle Rental Management System
+A console-based Vehicle Rental Management System developed in C that enables administrators and customers to manage vehicle rentals efficiently.
+
+Password for Admin= "admin123"
+Features
+Admin Features
+Secure admin authentication
+Add single or multiple vehicles
+View all vehicles
+Update vehicle details
+Delete vehicles
+Check vehicle availability
+Search vehicles
+Search customers
+View customer records
+Monitor active rentals
+User Features
+View available vehicles
+Search vehicles
+Rent vehicles
+Return rented vehicles
+Generate and track bills
+Technologies Used
+C Programming Language
+Structures
+File Handling
+Modular Programming
+Console-Based User Interface
+Files Used
+vehicles.txt
+customers.txt
+rentals.txt
+Note: These text files are used for data storage. The repository includes sample/initial data files for demonstration purposes.
+
+How to Run
+Clone the repository. Compile the source code using a C compiler (GCC or any compatible compiler). Run the executable. If building from scratch, first run the add vehicles function to create vehicles file. The required text files will be used to store and retrieve vehicle, customer, and rental information.
+
+Learning Outcomes
+This project demonstrates:
+
+Data structures in C
+File management
+Menu-driven application design
+Input validation
+Real-world problem solving
+Software development fundamentals
+Developers
+Dawood Shah
+Ahmad Bilal
+Institution
+FAST NUCES
+
+Project Type
+1st Semester Project – BS Computer Science# Vehicle_Rental_Management_System
